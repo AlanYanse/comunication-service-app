@@ -1,0 +1,15 @@
+/* Add application styles & imports to this file! */
+
+body{
+  background-color: #332D2D;
+}
+
+.contenedor{
+  width: 300px;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 20px;
+}

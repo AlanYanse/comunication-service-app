@@ -1,0 +1,19 @@
+
+img {
+  width: 40px;
+  margin: 20px;
+}
+
+a:hover{
+  color: cyan;
+}
+
+i{
+  color: #fefe;
+  font-size: 24px;
+  margin: 10px;
+}
+
+i:hover{
+  color: cyan;
+}
